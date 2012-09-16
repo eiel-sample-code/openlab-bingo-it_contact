@@ -6,3 +6,9 @@ hiroshima.rb の紹介と github の基本機能をざっくりと解説して�
 
 
 keynoteをそのままupってるので スライドは [slide share](http://www.slideshare.net/TomohikoHimura/hiroshimarb-on-github) にも置いています。
+
+# 関連
+
+同日のWeb Touch Meeting の資料はこちらに。
+
+* https://github.com/eiel/wtm50-github
